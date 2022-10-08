@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/akshaypatel99/four-card-feature-section](https://github.com/akshaypatel99/four-card-feature-section)
+- Live Site URL: [https://akshaypatel99.github.io/four-card-feature-section/](https://akshaypatel99.github.io/four-card-feature-section/)
 
 ## My process
 
