@@ -6,7 +6,7 @@
   --dark-blue: hsl(234, 12%, 34%);
   --grayish-blue: hsl(229, 6%, 66%);
   --light-gray: hsl(0, 0%, 98%);
-  --font-size: 15px;
+  --font-size: 0.9375rem;
   --font-family: 'Poppins', sans-serif;
 }
 
@@ -41,7 +41,7 @@ header {
 header h1 {
   color: var(--dark-blue);
   font-weight: 200;
-  font-size: calc(1.5 * var(--font-size));
+  font-size: 1.5em;
 }
 
 header h1 span {
@@ -76,7 +76,7 @@ main {
 }
 
 .card-title {
-  font-size: calc(1.25 * var(--font-size));
+  font-size: 1.25em;
 }
 
 .card-text {
@@ -89,8 +89,8 @@ main {
 }
 
 .card-icon {
-  width: 48px;
-  height: 48px;
+  width: 3rem;
+  height: 3rem;
 }
 
 .supervisor {
@@ -112,7 +112,7 @@ main {
 footer {
   width: 100%;
   position: absolute;
-  bottom: 5px;
+  bottom: 2px;
 }
 
 @media (min-width: 1145px) {
@@ -121,7 +121,7 @@ footer {
   }
 
   header h1 {
-    font-size: calc(2 * var(--font-size));
+    font-size: 2em;
   }
 
   main {
@@ -143,12 +143,12 @@ footer {
   }
 
   .card-title {
-    font-size: calc(1.4 * var(--font-size));
+    font-size: 1.4em;
   }
 
   .card-icon {
-    width: 64px;
-    height: 64px;
+    width: 4rem;
+    height: 4rem;
   }
 
   .supervisor {
